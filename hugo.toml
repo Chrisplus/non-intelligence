@@ -1,4 +1,4 @@
 baseURL = 'https://non-intelligence.com/'
 locale = 'en-us'
 title = 'My New Hugo Project'
-theme = 'papermod'
+theme = 'Papermod'
